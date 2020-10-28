@@ -1,0 +1,38 @@
+body{
+background-color: #ff8000;
+text-align: center;
+}
+h1{
+    border-radius: 25px;
+    padding: 20px;
+}
+
+section{
+    border-radius: 25px;
+    background-color: rgba(255,255,255,0.5);
+    padding: 20px;
+    text-align: center;
+}
+#presidente{
+    border-radius: 22%;
+    padding:5%
+    width:98%
+    height:20%
+}
+img{
+    padding: 5%
+    width: 74%;
+    height: 18%;
+}
+#escudo{
+    width:23%;
+    text-align:center;
+    
+}
+#base2{
+    background-color: green;
+    text-align:center;
+}
+#verificación{
+    width: 85%;
+} 
